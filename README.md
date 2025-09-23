@@ -3,6 +3,12 @@
 # 💫 About Me:
 A passionate student deeply engrossed in the fields of Robotics, AI/ML, and Data Science. My current focus involves diving into Large Language Models (LLMs) and Transformers to better understand advanced natural language processing. I have practical experience with TensorFlow, applying my knowledge to build and optimize models, including Convolutional Neural Networks (CNNs) and Deep Neural Networks (DNNs). I've also completed various computer vision projects using Python and OpenCV.<br><br>I'm always on the lookout for hands-on projects and open to internship opportunities in AI/ML, Python development, and other data-driven domains.
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prabhgun-singh/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prabhgun18005@gmail.com) 
